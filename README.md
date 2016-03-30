@@ -30,15 +30,15 @@ Just my solutions and thoughts about LeetCode.Some of the problems I also give s
 | 292        |   [NimGame](https://github.com/Byelaney/LeetCodes/blob/master/easy/292.NimGame(easy).cpp)   |   easy   |
 | 326        |   [PowerofThree](https://github.com/Byelaney/LeetCodes/blob/master/easy/326.PowerofThree(easy).cpp)   |   easy   |
 | 328        |   [OddEvenLinkedList](https://github.com/Byelaney/LeetCodes/blob/master/easy/328. OddEvenLinkedList(easy).cpp)   |   easy   |
-| 1        |   [TwoSum](https://github.com/Byelaney/LeetCodes/blob/master/easy/1.TwoSum(medium).cpp)   |   medium   |
-| 2        |   [AddTwoNumbers](https://github.com/Byelaney/LeetCodes/blob/master/easy/2. AddTwoNumbers(medium).cpp)   |   medium   |
-| 94        |   [BinaryTreeInorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/easy/94.BinaryTreeInorderTraversal(medium).cpp)   |   medium   |
-| 136        |   [Single Number](https://github.com/Byelaney/LeetCodes/blob/master/easy/136.Single Number(medium).cpp)   |   medium   |
-| 141        |   [LinkedListCycle](https://github.com/Byelaney/LeetCodes/blob/master/easy/141.LinkedListCycle(medium).cpp)   |   medium   |
-| 238        |   [ProductofArrayExceptSelf](https://github.com/Byelaney/LeetCodes/blob/master/easy/238.ProductofArrayExceptSelf(medium).cpp)   |   medium   |
-| 260        |   [SingleNumberIII](https://github.com/Byelaney/LeetCodes/blob/master/easy/260.SingleNumberIII(medium).cpp)   |   medium   |
-| 268        |   [MissingNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/268.MissingNumber(medium).cpp)   |   medium   |
-| 144        |   [BinaryTreePreorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/easy/144.BinaryTreePreorderTraversal(medium).cpp)   |   medium   |
-| 145        |   [BinaryTreePostorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/easy/145.BinaryTreePostorderTraversal(medium).cpp)   |   medium   |
-| 319        |   [BulbSwitcher](https://github.com/Byelaney/LeetCodes/blob/master/easy/319.BulbSwitcher(medium).cpp)   |   medium   |
-| 287        |   [FindtheDuplicateNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/287.FindtheDuplicateNumber(hard).cpp)   |   hard   |
+| 1        |   [TwoSum](https://github.com/Byelaney/LeetCodes/blob/master/medium/1.TwoSum(medium).cpp)   |   medium   |
+| 2        |   [AddTwoNumbers](https://github.com/Byelaney/LeetCodes/blob/master/medium/2. AddTwoNumbers(medium).cpp)   |   medium   |
+| 94        |   [BinaryTreeInorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/medium/94.BinaryTreeInorderTraversal(medium).cpp)   |   medium   |
+| 136        |   [Single Number](https://github.com/Byelaney/LeetCodes/blob/master/medium/136.Single Number(medium).cpp)   |   medium   |
+| 141        |   [LinkedListCycle](https://github.com/Byelaney/LeetCodes/blob/master/medium/141.LinkedListCycle(medium).cpp)   |   medium   |
+| 238        |   [ProductofArrayExceptSelf](https://github.com/Byelaney/LeetCodes/blob/master/medium/238.ProductofArrayExceptSelf(medium).cpp)   |   medium   |
+| 260        |   [SingleNumberIII](https://github.com/Byelaney/LeetCodes/blob/master/medium/260.SingleNumberIII(medium).cpp)   |   medium   |
+| 268        |   [MissingNumber](https://github.com/Byelaney/LeetCodes/blob/master/medium/268.MissingNumber(medium).cpp)   |   medium   |
+| 144        |   [BinaryTreePreorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/medium/144.BinaryTreePreorderTraversal(medium).cpp)   |   medium   |
+| 145        |   [BinaryTreePostorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/medium/145.BinaryTreePostorderTraversal(medium).cpp)   |   medium   |
+| 319        |   [BulbSwitcher](https://github.com/Byelaney/LeetCodes/blob/master/medium/319.BulbSwitcher(medium).cpp)   |   medium   |
+| 287        |   [FindtheDuplicateNumber](https://github.com/Byelaney/LeetCodes/blob/master/hard/287.FindtheDuplicateNumber(hard).cpp)   |   hard   |
