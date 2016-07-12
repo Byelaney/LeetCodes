@@ -105,3 +105,4 @@ For Chinese version, LintCode:
 | 54 | [uniquepath](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/uniquepath.md)   |   easy   |
 | 55 | [uniquepathII](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/uniquepathII.md)   |   medium   |
 | 56 | [wigglesort](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/wigglesort.md)   |   medium   |
+| 57 | [longestCommonSubsequence](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/longestCommonSubsequence.md)   |   medium   |
