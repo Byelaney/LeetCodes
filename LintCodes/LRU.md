@@ -164,3 +164,103 @@ private:
     }
 };
 ```
+
+Here is a template version.
+
+```cpp
+template <class K,class V>
+struct DLNode
+{
+    K key;
+    V val;
+    DLNode* prev;
+    DLNode* next;
+};
+
+template <class K,class V>
+class LRUCache{
+public:
+    // @param capacity, an integer
+    LRUCache(int capacity)
+    {
+        m_capacity = capacity;
+        m_head = new DLNode<K,V>;
+        m_tail = new DLNode<K,V>;
+        m_head->next = m_tail;
+        m_head->prev = NULL;
+        m_tail->next = NULL;
+        m_tail->prev = m_head;
+    }
+
+    // @return an integer
+    V get(K key)
+    {
+        if (m_cache.find(key) != m_cache.end())
+        {
+            // key found
+            DLNode<K,V>* tnode = m_cache[key];
+            move_front(tnode);
+            return tnode->val;
+        }
+        else return V(); // return default value of V
+    }
+
+    // @param key, an integer
+    // @param value, an integer
+    // @return nothing
+    void set(K key, V value)
+    {
+        if (m_cache.find(key) != m_cache.end())
+        {
+            // key found
+            DLNode<K,V>* tnode = m_cache[key];
+            tnode->val = value;
+            move_front(tnode);
+            return;
+        }
+
+        // key not found
+        if (m_cache.size() >= m_capacity)
+        {
+            DLNode<K,V>* back = m_tail->prev;
+            back->prev->next = m_tail;
+            m_tail->prev = back->prev;
+            back->prev = NULL;
+            back->next = NULL;
+            m_cache.erase(back->key);
+        }
+
+        DLNode<K,V>* tnode = new DLNode<K,V>();
+        tnode->key = key;
+        tnode->val = value;
+        put_front(tnode);
+        m_cache[key] = tnode;
+    }
+
+
+private:
+    DLNode<K,V>* m_head;
+    DLNode<K,V>* m_tail;
+    int     m_capacity;
+    unordered_map<K, DLNode<K,V>*> m_cache;
+
+private:
+    void move_front(DLNode<K,V>* tnode)
+    {
+        tnode->next->prev = tnode->prev;
+        tnode->prev->next = tnode->next;
+        tnode->prev = m_head;
+        tnode->next = m_head->next;
+        m_head->next->prev = tnode;
+        m_head->next = tnode;
+    }
+    
+    void put_front(DLNode<K,V>* tnode)
+    {
+        tnode->prev = m_head;
+        tnode->next = m_head->next;
+        m_head->next->prev = tnode;
+        m_head->next = tnode;
+    }
+};
+```
