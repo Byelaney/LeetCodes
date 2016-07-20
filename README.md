@@ -107,3 +107,4 @@ For Chinese version, LintCode:
 | 56 | [wigglesort](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/wigglesort.md)   |   medium   |
 | 57 | [longestCommonSubsequence](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/longestCommonSubsequence.md)   |   medium   |
 | 58 | [trapRainWater](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/trapRainWater.md)   |   hard   |
+| 59 | [combine](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/combine.md)   |   medium   |
