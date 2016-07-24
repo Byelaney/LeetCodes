@@ -108,3 +108,4 @@ For Chinese version, LintCode:
 | 57 | [longestCommonSubsequence](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/longestCommonSubsequence.md)   |   medium   |
 | 58 | [trapRainWater](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/trapRainWater.md)   |   hard   |
 | 59 | [combine](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/combine.md)   |   medium   |
+| 60 | [generateParenthesis](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/generateParenthesis.md)   |   medium   |
