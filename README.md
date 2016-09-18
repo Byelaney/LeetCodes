@@ -55,6 +55,7 @@ For Chinese version, LintCode:
 | 8 | [RotateString](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/RotateString.md)   |   easy   |
 | 9 | [FizzBuzz](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/FizzBuzz.md)   |   easy   |
 | 11 | [SearchRangeinBinarySearchTree](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/SearchRangeinBinarySearchTree.md)   |   medium   |
+| 12 | [MinStack](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/MinStack.md)   |   medium   |
 | 75 | [FindPeakElement](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/FindPeakElement.md)   |   medium   |
 | 82 | [singleNumber](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/singleNumber.md)   |   easy   |
 | 97 | [MaximumDepthofBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/MaximumDepthofBinaryTree.md)   |   easy   |
