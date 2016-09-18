@@ -63,8 +63,6 @@ For Chinese version, LintCode:
 | 134 | [LRU](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/LRU.md)   |   hard   |
 | 150 | [BestTimetoBuyandSellStockII](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/BestTimetoBuyandSellStockII.md)   |   medium   |
 | 375 | [CloneBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/CloneBinaryTree.md)   |   easy   |
-
-
 | 2 | [binarylevel](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/binarylevel.md)   |   medium   |
 | 3 | [binlevel](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/binlevel.md)   |   medium   |
 | 4 | [bst1](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/bst1.md)   |   easy   |
