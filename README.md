@@ -50,6 +50,20 @@ For Chinese version, LintCode:
 | *        | 题目   |  难度  |
 | --------   | :-----  | :----:  |
 | 1 | [add2num](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/add2num.md)   |   easy   |
+| 2 | [TrailingZeros](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/TrailingZeros.md)   |   easy   |
+| 6 | [MergeTwoSortedArrays](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/MergeTwoSortedArrays.md)   |   easy   |
+| 8 | [RotateString](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/RotateString.md)   |   easy   |
+| 9 | [FizzBuzz](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/FizzBuzz.md)   |   easy   |
+| 11 | [SearchRangeinBinarySearchTree](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/SearchRangeinBinarySearchTree.md)   |   medium   |
+| 75 | [FindPeakElement](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/FindPeakElement.md)   |   medium   |
+| 82 | [singleNumber](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/singleNumber.md)   |   easy   |
+| 97 | [MaximumDepthofBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/MaximumDepthofBinaryTree.md)   |   easy   |
+| 102 | [LinkedListCycle](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/LinkedListCycle.md)   |   medium   |
+| 134 | [LRU](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/LRU.md)   |   hard   |
+| 150 | [BestTimetoBuyandSellStockII](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/BestTimetoBuyandSellStockII.md)   |   medium   |
+| 375 | [CloneBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/CloneBinaryTree.md)   |   easy   |
+
+
 | 2 | [binarylevel](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/binarylevel.md)   |   medium   |
 | 3 | [binlevel](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/binlevel.md)   |   medium   |
 | 4 | [bst1](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/bst1.md)   |   easy   |
@@ -74,7 +88,6 @@ For Chinese version, LintCode:
 | 23 | [levenshtein](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/levenshtein.md)   |   hard   |
 | 24 | [levenshtein2](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/levenshtein2.md)   |   hard   |
 | 25 | [longestIncSeq](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/longestIncSeq.md)   |   easy   |
-| 26 | [LRU](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/LRU.md)   |   hard   |
 | 27 | [median](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/median.md)   |   easy   |
 | 28 | [mergesortII](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/mergesortII.md)   |   medium   |
 | 29 | [mergesortlist](https://github.com/Byelaney/LeetCodes/blob/master/LintCodes/mergesortlist.md)   |   easy   |
