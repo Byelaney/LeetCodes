@@ -7,7 +7,6 @@ Feel free to give solutions in other language or better algorithms.
 
 | *        | Title   |  Difficulty  |
 | --------   | :-----  | :----:  |
-
 | 1     | [TwoSum](https://github.com/Byelaney/LeetCodes/blob/master/easy/1.TwoSum(easy).cpp) |   easy     |
 | 7     | [ReverseInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/7.ReverseInteger(easy).py) |   easy     |
 | 21     | [MergeTwoSortedLists](https://github.com/Byelaney/LeetCodes/blob/master/easy/21.MergeTwoSortedLists(easy).cpp) |   easy     |
