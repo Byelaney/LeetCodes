@@ -9,6 +9,8 @@ Feel free to give solutions in other language or better algorithms.
 | --------   | :-----  | :----:  |
 | 1     | [TwoSum](https://github.com/Byelaney/LeetCodes/blob/master/easy/1.TwoSum(easy).cpp) |   easy     |
 | 7     | [ReverseInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/7.ReverseInteger(easy).py) |   easy     |
+| 8     | [StringtoInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/8.StringtoInteger(easy).py) |   easy     |
+| 9     | [PalindromeNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/9.PalindromeNumber(easy).py) |   easy     |
 | 13     | [RomantoInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/13.RomantoInteger(easy).py) |   easy     |
 | 20     | [ValidParentheses](https://github.com/Byelaney/LeetCodes/blob/master/easy/20.ValidParentheses(easy).py) |   easy     |
 | 21     | [MergeTwoSortedLists](https://github.com/Byelaney/LeetCodes/blob/master/easy/21.MergeTwoSortedLists(easy).cpp) |   easy     |
@@ -25,8 +27,10 @@ Feel free to give solutions in other language or better algorithms.
 | 102        |   [BinaryTreeLevelOrderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/easy/102.BinaryTreeLevelOrderTraversal(easy).cpp)   |   easy   |
 | 104        |   [MaximumDepthofBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/104.MaximumDepthofBinaryTree(easy).cpp)   |   easy   |
 | 107        |   [BinaryTreeLevelOrderTraversalII](https://github.com/Byelaney/LeetCodes/blob/master/easy/107.BinaryTreeLevelOrderTraversalII(easy).cpp)   |   easy   |
+| 110     | [BalancedBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/110.BalancedBinaryTree(easy).java) |   easy     |
 | 111        |   [MinimumDepthofBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/111.MinimumDepthofBinaryTree(easy).cpp)   |   easy   |
 | 112     | [PathSum](https://github.com/Byelaney/LeetCodes/blob/master/easy/112.PathSum(easy).java) |   easy     |
+| 118     | [PascalsTriangle](https://github.com/Byelaney/LeetCodes/blob/master/easy/118.PascalsTriangle(easy).java) |   easy     |
 | 121     | [BestTimetoBuyandSellStock](https://github.com/Byelaney/LeetCodes/blob/master/easy/121.BestTimetoBuyandSellStock(easy).java) |   easy     |
 | 122        |   [BestTimetoBuyandSellStockII](https://github.com/Byelaney/LeetCodes/blob/master/easy/122.BestTimetoBuyandSellStockII(easy).cpp)   |   easy   |
 | 136        |   [SingleNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/136.SingleNumber(easy).cpp)   |   easy   |
@@ -37,6 +41,7 @@ Feel free to give solutions in other language or better algorithms.
 | 167        |   [TwoSumII](https://github.com/Byelaney/LeetCodes/blob/master/easy/167.TwoSumII(easy).cpp)   |   easy   |
 | 169        |   [MajorityElement](https://github.com/Byelaney/LeetCodes/blob/master/easy/169.MajorityElement(easy).cpp)   |   easy   |
 | 171        |   [ExcelSheetColumnNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/171.ExcelSheetColumnNumber(easy).cpp)   |   easy   |
+| 172        |   [FactorialTrailingZeroes](https://github.com/Byelaney/LeetCodes/blob/master/easy/172.FactorialTrailingZeroes(easy).cpp)   |   easy   |
 | 191        |   [Numberof1Bits](https://github.com/Byelaney/LeetCodes/blob/master/easy/191.Numberof1Bits(easy).cpp)   |   easy   |
 | 198        |   [HouseRobber](https://github.com/Byelaney/LeetCodes/blob/master/easy/198.HouseRobber(easy).cpp)   |   easy   |
 | 202        |   [HappyNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/202.HappyNumber(easy).cpp)   |   easy   |
@@ -50,6 +55,7 @@ Feel free to give solutions in other language or better algorithms.
 | 242        |   [ValidAnagram](https://github.com/Byelaney/LeetCodes/blob/master/easy/242.ValidAnagram(easy).cpp)   |   easy   |
 | 243        |   [ShortestWordDistance](https://github.com/Byelaney/LeetCodes/blob/master/easy/243.ShortestWordDistance(easy).cpp)   |   easy   |
 | 246        |   [StrobogrammaticNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/246.StrobogrammaticNumber(easy).cpp)   |   easy   |
+| 249        |   [GroupShiftedStrings](https://github.com/Byelaney/LeetCodes/blob/master/easy/249.GroupShiftedStrings(easy).cpp)   |   easy   |
 | 252        |   [MeetingRooms](https://github.com/Byelaney/LeetCodes/blob/master/easy/252.MeetingRooms(easy).cpp)   |   easy   |
 | 258        |   [AddDigits](https://github.com/Byelaney/LeetCodes/blob/master/easy/258.AddDigits(easy).cpp)   |   easy   |
 | 263        |   [UglyNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/263.UglyNumber(easy).java)   |   easy   |
@@ -77,8 +83,11 @@ Feel free to give solutions in other language or better algorithms.
 | 401        |   [BinaryWatch](https://github.com/Byelaney/LeetCodes/blob/master/easy/401.BinaryWatch(easy).py)   |   easy   |
 | 404        |   [SumofLeftLeaves](https://github.com/Byelaney/LeetCodes/blob/master/easy/404.SumofLeftLeaves(easy).cpp)   |   easy   |
 | 405        |   [ConvertaNumbertoHexadecimal](https://github.com/Byelaney/LeetCodes/blob/master/easy/405.ConvertaNumbertoHexadecimal(easy).cpp)   |   easy   |
+| 409        |   [LongestPalindrome](https://github.com/Byelaney/LeetCodes/blob/master/easy/409.LongestPalindrome(easy).cpp)   |   easy   |
+| 415        |   [AddStrings](https://github.com/Byelaney/LeetCodes/blob/master/medium/415.AddStrings(easy).cpp)   |   easy   |
 | 1        |   [TwoSum](https://github.com/Byelaney/LeetCodes/blob/master/medium/1.TwoSum(medium).cpp)   |   medium   |
 | 2        |   [AddTwoNumbers](https://github.com/Byelaney/LeetCodes/blob/master/medium/2.AddTwoNumbers(medium).cpp)   |   medium   |
+| 5        |   [LongestPalindromicSubstring](https://github.com/Byelaney/LeetCodes/blob/master/medium/5.LongestPalindromicSubstring(medium).cpp)   |   medium   |
 | 35        |   [SearchInsertPosition](https://github.com/Byelaney/LeetCodes/blob/master/medium/35.SearchInsertPosition(medium).cpp)   |   medium   |
 | 53        |   [MaximumSubarray](https://github.com/Byelaney/LeetCodes/blob/master/medium/53.MaximumSubarray(medium).cpp)   |   medium   |
 | 62        |   [UniquePaths](https://github.com/Byelaney/LeetCodes/blob/master/medium/62.UniquePaths(medium).cpp)   |   medium   |
