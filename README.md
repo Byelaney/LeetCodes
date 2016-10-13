@@ -10,9 +10,9 @@ Feel free to give solutions in other language or better algorithms.
 | 1     | [TwoSum](https://github.com/Byelaney/LeetCodes/blob/master/easy/1.TwoSum(easy).cpp) |   easy     |
 | 7     | [ReverseInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/7.ReverseInteger(easy).py) |   easy     |
 | 8     | [StringtoInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/8.StringtoInteger(easy).py) |   easy     |
-| 9     | [PalindromeNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/9.PalindromeNumber(easy).py) |   easy     |
-| 13     | [RomantoInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/13.RomantoInteger(easy).py) |   easy     |
-| 20     | [ValidParentheses](https://github.com/Byelaney/LeetCodes/blob/master/easy/20.ValidParentheses(easy).py) |   easy     |
+| 9     | [PalindromeNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/9.PalindromeNumber(easy).cpp) |   easy     |
+| 13     | [RomantoInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/13.RomantoInteger(easy).cpp) |   easy     |
+| 20     | [ValidParentheses](https://github.com/Byelaney/LeetCodes/blob/master/easy/20.ValidParentheses(easy).cpp) |   easy     |
 | 21     | [MergeTwoSortedLists](https://github.com/Byelaney/LeetCodes/blob/master/easy/21.MergeTwoSortedLists(easy).cpp) |   easy     |
 | 24     | [SwapNodesinPairs](https://github.com/Byelaney/LeetCodes/blob/master/easy/24.SwapNodesinPairs(easy).cpp) |   easy     |
 | 26     |   [RemoveDuplicatesfromSortedArray](https://github.com/Byelaney/LeetCodes/blob/master/easy/26.RemoveDuplicatesfromSortedArray(easy).cpp)   |   easy   |
