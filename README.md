@@ -17,6 +17,8 @@ Feel free to give solutions in other language or better algorithms.
 | 24     | [SwapNodesinPairs](https://github.com/Byelaney/LeetCodes/blob/master/easy/24.SwapNodesinPairs(easy).cpp) |   easy     |
 | 26     |   [RemoveDuplicatesfromSortedArray](https://github.com/Byelaney/LeetCodes/blob/master/easy/26.RemoveDuplicatesfromSortedArray(easy).cpp)   |   easy   |
 | 27     | [RemoveElement](https://github.com/Byelaney/LeetCodes/blob/master/easy/27.RemoveElement(easy).java) |   easy     |
+| 36     | [ValidSudoku](https://github.com/Byelaney/LeetCodes/blob/master/easy/36.ValidSudoku(easy).java) |   easy     |
+| 58     | [LengthofLastWord](https://github.com/Byelaney/LeetCodes/blob/master/easy/58.LengthofLastWord(easy).java) |   easy     |
 | 66        |   [PlusOne](https://github.com/Byelaney/LeetCodes/blob/master/easy/66.PlusOne(easy).cpp)   |   easy   |
 | 67        |   [AddBinary](https://github.com/Byelaney/LeetCodes/blob/master/easy/67.AddBinary(easy).cpp)   |   easy   |
 | 70     | [ClimbingStairs](https://github.com/Byelaney/LeetCodes/blob/master/easy/70.ClimbingStairs(easy).java) |   easy     |
@@ -27,12 +29,14 @@ Feel free to give solutions in other language or better algorithms.
 | 102        |   [BinaryTreeLevelOrderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/easy/102.BinaryTreeLevelOrderTraversal(easy).cpp)   |   easy   |
 | 104        |   [MaximumDepthofBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/104.MaximumDepthofBinaryTree(easy).cpp)   |   easy   |
 | 107        |   [BinaryTreeLevelOrderTraversalII](https://github.com/Byelaney/LeetCodes/blob/master/easy/107.BinaryTreeLevelOrderTraversalII(easy).cpp)   |   easy   |
-| 110     | [BalancedBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/110.BalancedBinaryTree(easy).java) |   easy     |
+| 110     | [BalancedBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/110.BalancedBinaryTree(easy).cpp) |   easy     |
 | 111        |   [MinimumDepthofBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/111.MinimumDepthofBinaryTree(easy).cpp)   |   easy   |
 | 112     | [PathSum](https://github.com/Byelaney/LeetCodes/blob/master/easy/112.PathSum(easy).java) |   easy     |
-| 118     | [PascalsTriangle](https://github.com/Byelaney/LeetCodes/blob/master/easy/118.PascalsTriangle(easy).java) |   easy     |
-| 121     | [BestTimetoBuyandSellStock](https://github.com/Byelaney/LeetCodes/blob/master/easy/121.BestTimetoBuyandSellStock(easy).java) |   easy     |
+| 118     | [PascalsTriangle](https://github.com/Byelaney/LeetCodes/blob/master/easy/118.PascalsTriangle(easy).cpp) |   easy     |
+| 119     | [PascalsTriangleII](https://github.com/Byelaney/LeetCodes/blob/master/easy/119.PascalsTriangleII(easy).cpp) |   easy     |
+| 121     | [BestTimetoBuyandSellStock](https://github.com/Byelaney/LeetCodes/blob/master/easy/121.BestTimetoBuyandSellStock(easy).cpp) |   easy     |
 | 122        |   [BestTimetoBuyandSellStockII](https://github.com/Byelaney/LeetCodes/blob/master/easy/122.BestTimetoBuyandSellStockII(easy).cpp)   |   easy   |
+| 125        |   [ValidPalindrome](https://github.com/Byelaney/LeetCodes/blob/master/easy/125.ValidPalindrome(easy).java)   |   easy   |
 | 136        |   [SingleNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/136.SingleNumber(easy).cpp)   |   easy   |
 | 141        |   [LinkedListCycle](https://github.com/Byelaney/LeetCodes/blob/master/easy/141.LinkedListCycle(easy).cpp)   |   easy   |
 | 153        |   [FindMinimuminRotatedSortedArray](https://github.com/Byelaney/LeetCodes/blob/master/easy/153.FindMinimuminRotatedSortedArray(easy).cpp)   |   easy   |
@@ -45,6 +49,7 @@ Feel free to give solutions in other language or better algorithms.
 | 191        |   [Numberof1Bits](https://github.com/Byelaney/LeetCodes/blob/master/easy/191.Numberof1Bits(easy).cpp)   |   easy   |
 | 198        |   [HouseRobber](https://github.com/Byelaney/LeetCodes/blob/master/easy/198.HouseRobber(easy).cpp)   |   easy   |
 | 202        |   [HappyNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/202.HappyNumber(easy).cpp)   |   easy   |
+| 205        |   [IsomorphicStrings](https://github.com/Byelaney/LeetCodes/blob/master/easy/205.IsomorphicStrings(easy).java)   |   easy   |
 | 206        |   [ReverseLinkedList](https://github.com/Byelaney/LeetCodes/blob/master/easy/206.ReverseLinkedList(easy).cpp)   |   easy   |
 | 217        |   [ContainsDuplicate](https://github.com/Byelaney/LeetCodes/blob/master/easy/217.ContainsDuplicate(easy).cpp)   |   easy   |
 | 226        |   [InvertBinaryTree](https://github.com/Byelaney/LeetCodes/blob/master/easy/226.InvertBinaryTree(easy).cpp)   |   easy   |
@@ -57,14 +62,18 @@ Feel free to give solutions in other language or better algorithms.
 | 246        |   [StrobogrammaticNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/246.StrobogrammaticNumber(easy).cpp)   |   easy   |
 | 249        |   [GroupShiftedStrings](https://github.com/Byelaney/LeetCodes/blob/master/easy/249.GroupShiftedStrings(easy).cpp)   |   easy   |
 | 252        |   [MeetingRooms](https://github.com/Byelaney/LeetCodes/blob/master/easy/252.MeetingRooms(easy).cpp)   |   easy   |
+| 257        |   [BinaryTreePaths](https://github.com/Byelaney/LeetCodes/blob/master/easy/257.BinaryTreePaths(easy).cpp)   |   easy   |
 | 258        |   [AddDigits](https://github.com/Byelaney/LeetCodes/blob/master/easy/258.AddDigits(easy).cpp)   |   easy   |
 | 263        |   [UglyNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/263.UglyNumber(easy).java)   |   easy   |
 | 266        |   [PalindromePermutation](https://github.com/Byelaney/LeetCodes/blob/master/easy/266.PalindromePermutation(easy).java)   |   easy   |
 | 270        |   [ClosestBinarySearchTreeValue](https://github.com/Byelaney/LeetCodes/blob/master/easy/270.ClosestBinarySearchTreeValue(easy).java)   |   easy   |
-| 278        |   [FirstBadVersion](https://github.com/Byelaney/LeetCodes/blob/master/easy/278. FirstBadVersion(easy).cpp)   |   easy   |
+| 276        |   [PaintFence](https://github.com/Byelaney/LeetCodes/blob/master/easy/276.PaintFence(easy).cpp)   |   easy   |
+| 278        |   [FirstBadVersion](https://github.com/Byelaney/LeetCodes/blob/master/easy/278.FirstBadVersion(easy).cpp)   |   easy   |
 | 283        |   [MoveZeroes](https://github.com/Byelaney/LeetCodes/blob/master/easy/283.MoveZeroes(easy).cpp)   |   easy   |
+| 290        |   [WordPattern](https://github.com/Byelaney/LeetCodes/blob/master/easy/290.WordPattern(easy).cpp)   |   easy   |
 | 292        |   [NimGame](https://github.com/Byelaney/LeetCodes/blob/master/easy/292.NimGame(easy).cpp)   |   easy   |
 | 293        |   [FlipGame](https://github.com/Byelaney/LeetCodes/blob/master/easy/293.FlipGame(easy).cpp)   |   easy   |
+| 299        |   [BullsandCows](https://github.com/Byelaney/LeetCodes/blob/master/easy/299.BullsandCows(easy).java)   |   easy   |
 | 326        |   [PowerofThree](https://github.com/Byelaney/LeetCodes/blob/master/easy/326.PowerofThree(easy).cpp)   |   easy   |
 | 328        |   [OddEvenLinkedList](https://github.com/Byelaney/LeetCodes/blob/master/easy/328. OddEvenLinkedList(easy).cpp)   |   easy   |
 | 339        |   [NestedListWeightSum](https://github.com/Byelaney/LeetCodes/blob/master/easy/339. NestedListWeightSum(easy).cpp)   |   easy   |
@@ -76,6 +85,7 @@ Feel free to give solutions in other language or better algorithms.
 | 350        |   [IntersectionofTwoArraysII](https://github.com/Byelaney/LeetCodes/blob/master/easy/350.IntersectionofTwoArraysII(easy).cpp)   |   easy   |
 | 359        |   [LoggerRateLimiter](https://github.com/Byelaney/LeetCodes/blob/master/easy/359.LoggerRateLimiter(easy).cpp)   |   easy   |
 | 371        |   [SumofTwoIntegers](https://github.com/Byelaney/LeetCodes/blob/master/easy/371.SumofTwoIntegers(easy).cpp)   |   easy   |
+| 374        |   [GuessNumberHigherorLower](https://github.com/Byelaney/LeetCodes/blob/master/easy/374.GuessNumberHigherorLower(easy).cpp)   |   easy   |
 | 383        |   [RansomNote](https://github.com/Byelaney/LeetCodes/blob/master/easy/383.RansomNote(easy).cpp)   |   easy   |
 | 387        |   [FirstUniqueCharacterinaString](https://github.com/Byelaney/LeetCodes/blob/master/easy/387.FirstUniqueCharacterinaString(easy).cpp)   |   easy   |
 | 389        |   [FindtheDifference](https://github.com/Byelaney/LeetCodes/blob/master/easy/389.FindtheDifference(easy).cpp)   |   easy   |
