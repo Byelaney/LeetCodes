@@ -12,6 +12,7 @@ Feel free to give solutions in other language or better algorithms.
 | 8     | [StringtoInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/8.StringtoInteger(easy).py) |   easy     |
 | 9     | [PalindromeNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/9.PalindromeNumber(easy).cpp) |   easy     |
 | 13     | [RomantoInteger](https://github.com/Byelaney/LeetCodes/blob/master/easy/13.RomantoInteger(easy).cpp) |   easy     |
+| 14     | [LongestCommonPrefix](https://github.com/Byelaney/LeetCodes/blob/master/easy/14.LongestCommonPrefix(easy).java) |   easy     |
 | 20     | [ValidParentheses](https://github.com/Byelaney/LeetCodes/blob/master/easy/20.ValidParentheses(easy).cpp) |   easy     |
 | 21     | [MergeTwoSortedLists](https://github.com/Byelaney/LeetCodes/blob/master/easy/21.MergeTwoSortedLists(easy).cpp) |   easy     |
 | 24     | [SwapNodesinPairs](https://github.com/Byelaney/LeetCodes/blob/master/easy/24.SwapNodesinPairs(easy).cpp) |   easy     |
@@ -49,6 +50,7 @@ Feel free to give solutions in other language or better algorithms.
 | 191        |   [Numberof1Bits](https://github.com/Byelaney/LeetCodes/blob/master/easy/191.Numberof1Bits(easy).cpp)   |   easy   |
 | 198        |   [HouseRobber](https://github.com/Byelaney/LeetCodes/blob/master/easy/198.HouseRobber(easy).cpp)   |   easy   |
 | 202        |   [HappyNumber](https://github.com/Byelaney/LeetCodes/blob/master/easy/202.HappyNumber(easy).cpp)   |   easy   |
+| 203        |   [RemoveLinkedListElements](https://github.com/Byelaney/LeetCodes/blob/master/easy/203.RemoveLinkedListElements(easy).java)   |   easy   |
 | 205        |   [IsomorphicStrings](https://github.com/Byelaney/LeetCodes/blob/master/easy/205.IsomorphicStrings(easy).java)   |   easy   |
 | 206        |   [ReverseLinkedList](https://github.com/Byelaney/LeetCodes/blob/master/easy/206.ReverseLinkedList(easy).cpp)   |   easy   |
 | 217        |   [ContainsDuplicate](https://github.com/Byelaney/LeetCodes/blob/master/easy/217.ContainsDuplicate(easy).cpp)   |   easy   |
@@ -94,6 +96,7 @@ Feel free to give solutions in other language or better algorithms.
 | 404        |   [SumofLeftLeaves](https://github.com/Byelaney/LeetCodes/blob/master/easy/404.SumofLeftLeaves(easy).cpp)   |   easy   |
 | 405        |   [ConvertaNumbertoHexadecimal](https://github.com/Byelaney/LeetCodes/blob/master/easy/405.ConvertaNumbertoHexadecimal(easy).cpp)   |   easy   |
 | 409        |   [LongestPalindrome](https://github.com/Byelaney/LeetCodes/blob/master/easy/409.LongestPalindrome(easy).cpp)   |   easy   |
+| 412        |   [FizzBuzz](https://github.com/Byelaney/LeetCodes/blob/master/easy/412.FizzBuzz(easy).java)   |   easy   |
 | 415        |   [AddStrings](https://github.com/Byelaney/LeetCodes/blob/master/medium/415.AddStrings(easy).cpp)   |   easy   |
 | 1        |   [TwoSum](https://github.com/Byelaney/LeetCodes/blob/master/medium/1.TwoSum(medium).cpp)   |   medium   |
 | 2        |   [AddTwoNumbers](https://github.com/Byelaney/LeetCodes/blob/master/medium/2.AddTwoNumbers(medium).cpp)   |   medium   |
@@ -102,6 +105,7 @@ Feel free to give solutions in other language or better algorithms.
 | 53        |   [MaximumSubarray](https://github.com/Byelaney/LeetCodes/blob/master/medium/53.MaximumSubarray(medium).cpp)   |   medium   |
 | 62        |   [UniquePaths](https://github.com/Byelaney/LeetCodes/blob/master/medium/62.UniquePaths(medium).cpp)   |   medium   |
 | 94        |   [BinaryTreeInorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/medium/94.BinaryTreeInorderTraversal(medium).cpp)   |   medium   |
+| 108        |   [ConvertSortedArraytoBinarySearchTree](https://github.com/Byelaney/LeetCodes/blob/master/medium/108.ConvertSortedArraytoBinarySearchTree(medium).java)   |   medium   |
 | 122        |   [BestTimetoBuyandSellStockII](https://github.com/Byelaney/LeetCodes/blob/master/medium/122.BestTimetoBuyandSellStockII(medium).cpp)   |   medium   |
 | 136        |   [SingleNumber](https://github.com/Byelaney/LeetCodes/blob/master/medium/136.SingleNumber(medium).cpp)   |   medium   |
 | 137        |   [SingleNumberII](https://github.com/Byelaney/LeetCodes/blob/master/medium/137.SingleNumberII(medium).cpp)   |   medium   |
@@ -115,6 +119,7 @@ Feel free to give solutions in other language or better algorithms.
 | 319        |   [BulbSwitcher](https://github.com/Byelaney/LeetCodes/blob/master/medium/319.BulbSwitcher(medium).cpp)   |   medium   |
 | 328        |   [OddEvenLinkedList](https://github.com/Byelaney/LeetCodes/blob/master/medium/328.OddEvenLinkedList(medium).cpp)   |   medium   |
 | 338        |   [CountingBits](https://github.com/Byelaney/LeetCodes/blob/master/medium/338.CountingBits(medium).cpp)   |   medium   |
+| 392        |   [IsSubsequence](https://github.com/Byelaney/LeetCodes/blob/master/medium/392.IsSubsequence(medium).java)   |   medium   |
 | 42        |   [TrappingRainWater](https://github.com/Byelaney/LeetCodes/blob/master/hard/42.TrappingRainWater(hard).cpp)   |   hard   |
 | 145        |   [BinaryTreePostorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/hard/145.BinaryTreePostorderTraversal(hard).cpp)   |   hard   |
 | 146        |   [LRUCache](https://github.com/Byelaney/LeetCodes/blob/master/hard/146.LRUCache(hard).cpp)   |   hard   |
