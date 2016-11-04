@@ -104,6 +104,7 @@ Feel free to give solutions in other language or better algorithms.
 | 35        |   [SearchInsertPosition](https://github.com/Byelaney/LeetCodes/blob/master/medium/35.SearchInsertPosition(medium).cpp)   |   medium   |
 | 53        |   [MaximumSubarray](https://github.com/Byelaney/LeetCodes/blob/master/medium/53.MaximumSubarray(medium).cpp)   |   medium   |
 | 62        |   [UniquePaths](https://github.com/Byelaney/LeetCodes/blob/master/medium/62.UniquePaths(medium).cpp)   |   medium   |
+| 77        |   [Combinations](https://github.com/Byelaney/LeetCodes/blob/master/medium/77.Combinations(medium).cpp)   |   medium   |
 | 94        |   [BinaryTreeInorderTraversal](https://github.com/Byelaney/LeetCodes/blob/master/medium/94.BinaryTreeInorderTraversal(medium).cpp)   |   medium   |
 | 108        |   [ConvertSortedArraytoBinarySearchTree](https://github.com/Byelaney/LeetCodes/blob/master/medium/108.ConvertSortedArraytoBinarySearchTree(medium).java)   |   medium   |
 | 122        |   [BestTimetoBuyandSellStockII](https://github.com/Byelaney/LeetCodes/blob/master/medium/122.BestTimetoBuyandSellStockII(medium).cpp)   |   medium   |
